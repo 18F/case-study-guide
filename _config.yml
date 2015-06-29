@@ -1,6 +1,7 @@
+
 baseurl: /case-study-guide
 markdown: redcarpet
-name: Case Study Guide
+name: 18F Case Study Guide
 exclude:
 - go
 - copy-template
